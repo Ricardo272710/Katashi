@@ -37,7 +37,7 @@ let vs12txt = `
 │⚜️ ➤ 
 ╰─────────────╯
 ` //Aquí arriba cambiar el texto sin borrar las comillas
-await conn.sendFile(m.chat, 'https://telegra.ph/file/0ea56fa1fba7bdbb619ae.jpg', 'fantasy.jpg', vs12stxt.trim(),
+await conn.sendFile(m.chat, 'https://telegra.ph/file/0ea56fa1fba7bdbb619ae.jpg', 'fantasy.jpg', vs12txt.trim(),
 //En esta imagen vas a poner el url de la imagen grande
  fkontak, true, {
 contextInfo: {
