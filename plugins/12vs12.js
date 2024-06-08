@@ -49,7 +49,7 @@ renderLargerThumbnail: false,
 title: Free Fire,
 body: vs,
 mediaType: 1,
-sourceUrl: 'https://chat.whatsapp.com/KdRETtu9BsO7Hvo9ioCj5w',
+sourceUrl: 'https://www.instagram.com/ricardoookadm_',
 thumbnailUrl: 'https://telegra.ph/file/0ea56fa1fba7bdbb619ae.jpg'
 //Aquí arriba vas a poner el url de la imagen que irá junto a tu link de tu red social.
 }}
