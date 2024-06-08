@@ -13,11 +13,9 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["56974513824", '☆𝑲𝒂𝒕𝒂𝒔𝒉𝒊-𝑩𝒐𝒕☆', false],
-["51948705559", '𝙊𝙬𝙣𝙚𝙧', true],  
-["5217442363122", '𝑖𝑍𝑖', true],
-["5217294888993"], ["5217445404792"],
-["5492964650915"]]
+["593984036115", '☆Spider-𝑩𝒐𝒕☆', false],
+["593979133620", '𝙊𝙬𝙣𝙚𝙧', true],  
+["50764206082", 'ANTHONY ORG', true]]
 
 global.mods = []
 global.prems = []
@@ -114,12 +112,9 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["51948705559", '𝑲𝒂𝒕𝒂𝒔𝒉𝒊 𝑭𝒖𝒌𝒖𝒔𝒉𝒊𝒎𝒂 💻', 1], 
-["5217442363122", '𝑖𝑍𝑖 👻', 1],  
-["5493513446678", 'Martin Batman', 1],
-["5218771647787", 'IssSG', 1],
-["51948273587", 'Katashi Two', 1],
-["5492964650915", '♥️🎩⚠︎    シ︎𝑾𝒊𝒍𝖘𝒐𝒏シ︎   ⚠︎🎩♥️', 1]]
+["593979133620", 'Ricardo  creador💻', 1], 
+["50764206082", 'Anthony ORG 👻', 1],  
+["593987173504", 'kevin silva', 1]', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -127,8 +122,8 @@ global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se
 global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.packname = "☆𝑲𝒂𝒕𝒂𝒔𝒉𝒊-𝑩𝒐𝒕☆"
-global.author = "✥𝑲𝒂𝒕𝒂𝒔𝒉𝒊 𝑭𝒖𝒌𝒖𝒔𝒉𝒊𝒎𝒂✥"
+global.packname = "☆Spider-BOT☆"
+global.author = "✥Ricardo ADM✥"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > CUENTAS E INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -136,18 +131,12 @@ global.author = "✥𝑲𝒂𝒕𝒂𝒔𝒉𝒊 𝑭𝒖𝒌𝒖𝒔𝒉𝒊�
 // [EN] > ACCOUNTS AND BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
 global.vs = "1.0.1"
 global.vsJB = "2.5 (Beta)"
-global.gt = "☆𝑲𝒂𝒕𝒂𝒔𝒉𝒊-𝑩𝒐𝒕☆"
+global.gt = "☆SPIDER-BOT☆"
 
-global.yt = "https://youtube.com/@KatashiFukushima"
-global.yt2 = "https://www.youtube.com/shorts/ZLJYDUM6vSY"
-global.ig = "https://www.instagram.com/katashi_fukushima"
-global.md = "https://github.com/KatashiFukushima/KatashiBot-MD"
-global.fb = "https://www.facebook.com/KatashiFukushimaF"
-global.tk = "https://www.tiktok.com/@katashi_fukushima"
-global.ths = "https://www.threads.net/@katashi_fukushima"
-global.paypal = 'https://paypal.me/KatashiF'
-global.asistencia = 'Wa.me/51948705559' //Contacto
-global.bot = 'wa.me/51999999999'
+
+global.paypal = 'paypal.me/RicardoSilva18160'
+global.asistencia = 'Wa.me/593979133620' //Contacto
+global.bot = 'wa.me/593984036115'
 
 global.nna = 'https://www.atom.bio/katashifukushima' // Cuentas
 global.nn2 = 'https://instabio.cc/KatashiUwU' // Cuentas 2
@@ -190,14 +179,14 @@ global.eg = '╰⊱💚⊱ *𝙀́𝙓𝙄𝙏𝙊 | 𝙎𝙐𝘾𝘾𝙀𝙎�
 global.exito = eg
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-global.wm = "☆𝑲𝒂𝒕𝒂𝒔𝒉𝒊-𝑩𝒐𝒕☆ : ✥𝑲𝒂𝒕𝒂𝒔𝒉𝒊 𝑭𝒖𝒌𝒖𝒔𝒉𝒊𝒎𝒂✥�"
-global.igfg = "☆𝕂𝕒𝕥𝕒𝕤𝕙𝕚-𝔹𝕠𝕥☆"
+global.wm = "☆SPIDER-BOT☆ : ✥RICARDO ADM✥�"
+global.igfg = "☆SPIDER-BOT☆"
 global.wait = "*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*"
 global.waitt = "*⌛ _Cargando | Charging..._ ▬▬▭▭▭*"
 global.waittt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*"
 global.waitttt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▬▬▭*"
 global.waittttt = "*✅ _Completado | Filled..._ ▬▬▬▬▬▬▬*"
-global.nomorown = "51948273587"
+global.nomorown = "593979133620"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
