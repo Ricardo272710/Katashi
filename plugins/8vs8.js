@@ -1,8 +1,8 @@
 let handler = async (m, { conn, command, usedPrefix }) => {
-let ff = https://telegra.ph/file/0ea56fa1fba7bdbb619ae.jpg
+let ff = `https://telegra.ph/file/0ea56fa1fba7bdbb619ae.jpg`
 let vs8txt = `
 ╭──────⚔──────╮
- ㅤ8 𝐕𝐄𝐑𝐒𝐔𝐒 8
+ㅤㅤㅤ8 𝐕𝐄𝐑𝐒𝐔𝐒 8
 ╰──────⚔──────╯
 ╭──────────────╮
 │ㅤ⏱ 𝐇𝐎𝐑𝐀𝐑𝐈𝐎  
@@ -29,6 +29,8 @@ let vs8txt = `
 │⚜️ ➤ 
 │⚜️ ➤ 
 ╰─────────────╯
+               
+
 ` //Aquí arriba cambiar el texto sin borrar las comillas
 await conn.sendFile(m.chat, 'https://telegra.ph/file/0ea56fa1fba7bdbb619ae.jpg', 'fantasy.jpg', vs8txt.trim(),
 //En esta imagen vas a poner el url de la imagen grande
@@ -49,5 +51,5 @@ thumbnailUrl: 'https://telegra.ph/file/0ea56fa1fba7bdbb619ae.jpg'
 }, { mentions: m.sender })
 
 }
-handler.command = /^(pruebakatas|8vs8)$/i
+handler.command = /^(pruebakatas|vs8)$/i
 export default handler
