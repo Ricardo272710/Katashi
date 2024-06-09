@@ -64,5 +64,5 @@ thumbnailUrl: 'https://telegra.ph/file/0ea56fa1fba7bdbb619ae.jpg'
 }, { mentions: m.sender })
 
 }
-handler.command = /^(pruebakatas|16vs16)$/i
+handler.command = /^(pruebakatas|vs16)$/i
 export default handler
