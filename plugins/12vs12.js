@@ -1,5 +1,5 @@
 let handler = async (m, { conn, command, usedPrefix }) => {
-let ff = https://telegra.ph/file/0ea56fa1fba7bdbb619ae.jpg
+let ff = `https://telegra.ph/file/0ea56fa1fba7bdbb619ae.jpg`
 let vs12txt = `
 ╭──────⚔──────╮
 ㅤㅤ12 𝐕𝐄𝐑𝐒𝐔𝐒 12
