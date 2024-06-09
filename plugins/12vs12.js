@@ -46,8 +46,8 @@ contextInfo: {
 externalAdReply: {
 showAdAttribution: true,
 renderLargerThumbnail: false,
-title: Free Fire,
-body: vs,
+title: `Free Fire`,
+body: `vs`,
 mediaType: 1,
 sourceUrl: 'https://www.instagram.com/ricardoookadm_',
 thumbnailUrl: 'https://telegra.ph/file/0ea56fa1fba7bdbb619ae.jpg'
@@ -56,5 +56,5 @@ thumbnailUrl: 'https://telegra.ph/file/0ea56fa1fba7bdbb619ae.jpg'
 }, { mentions: m.sender })
 
 }
-handler.command = /^(pruebakatas|vs12)$/i
+handler.command = /^(12vs12|vs12)$/i
 export default handler
