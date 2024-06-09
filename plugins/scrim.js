@@ -1,5 +1,5 @@
 let handler = async (m, { conn, command, usedPrefix }) => {
-let ff = https://telegra.ph/file/0ea56fa1fba7bdbb619ae.jpg
+let ff = `https://telegra.ph/file/0ea56fa1fba7bdbb619ae.jpg`
 let scrimstxt = `
 ╭──────⚔──────╮
 ㅤ𝐒𝐂𝐑𝐈𝐌𝐒 𝐂𝐎𝐌𝐏𝐄𝐓𝐈𝐓𝐈𝐕𝐎
@@ -23,6 +23,7 @@ let scrimstxt = `
 │🥷🏻 ➤  
 │🥷🏻 ➤
 ╰─────────────╯
+  
 ` //Aquí arriba cambiar el texto sin borrar las comillas
 await conn.sendFile(m.chat, 'https://telegra.ph/file/0ea56fa1fba7bdbb619ae.jpg', 'fantasy.jpg', scrimstxt.trim(),
 //En esta imagen vas a poner el url de la imagen grande
@@ -33,8 +34,8 @@ contextInfo: {
 externalAdReply: {
 showAdAttribution: true,
 renderLargerThumbnail: false,
-title: Free Fire,
-body: vs,
+title: `Free Fire`,
+body: `vs`,
 mediaType: 1,
 sourceUrl: 'https://www.instagram.com/ricardoookadm_',
 thumbnailUrl: 'https://telegra.ph/file/0ea56fa1fba7bdbb619ae.jpg'
@@ -43,5 +44,5 @@ thumbnailUrl: 'https://telegra.ph/file/0ea56fa1fba7bdbb619ae.jpg'
 }, { mentions: m.sender })
 
 }
-handler.command = /^(pruebakatas|scrims)$/i
+handler.command = /^(12vs12|scrims)$/i
 export default handler
