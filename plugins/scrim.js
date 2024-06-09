@@ -44,5 +44,5 @@ thumbnailUrl: 'https://telegra.ph/file/0ea56fa1fba7bdbb619ae.jpg'
 }, { mentions: m.sender })
 
 }
-handler.command = /^(12vs12|scrims)$/i
+handler.command = /^(scrims|scrims)$/i
 export default handler
